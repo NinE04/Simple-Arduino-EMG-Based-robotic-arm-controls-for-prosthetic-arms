@@ -11,7 +11,7 @@ Features
 - Multi-Sensor Integration – Incorporated EMG, pressure sensors, and experimental TENG sensors.
 - Proof-of-Concept Arm – Demonstrated feasibility for low-cost prosthetic applications.
 
-📂 Contents
+Contents
 – Sensor signal reading, lockout logic, and servo control scripts.
 – Circuit diagrams, block diagrams, and design notes.
 – Data from servo and sensor tests.
